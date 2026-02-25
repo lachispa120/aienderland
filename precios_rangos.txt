@@ -1,0 +1,37 @@
+PRECIOS Y BENEFICIOS POR RANGO
+
+Rangos Semi-Anárquico
+- Cobre — Mensual: $1.00 USD | Permanente: $1.60 USD
+  Incluye: Kit Cobre; Prefijo [COBRE]; 5 Sethomes; /hat
+- Hierro — Mensual: $2.50 USD | Permanente: $4.00 USD
+  Incluye: Kit Hierro; Todo lo de Cobre; 8 Sethomes; /workbench
+- Oro — Mensual: $4.00 USD | Permanente: $6.50 USD
+  Incluye: Kit Oro; Todo lo de Hierro; 12 Sethomes; /enderchest
+- Diamante — Mensual: $6.00 USD | Permanente: $9.50 USD
+  Incluye: Kit Diamante; Todo lo de Oro; /back al morir; Tp instantáneo
+- Esmeralda — Mensual: $8.00 USD | Permanente: $12.50 USD
+  Incluye: Kit Esmeralda; Todo lo de Diamante; /feed y /near; 40 Sethomes
+- Netherite — Mensual: $10.00 USD | Permanente: $16.00 USD
+  Incluye: Kit Netherite; Todo lo anterior; 100 Sethomes; /repair; Fly en Lobby; /nick + KIT OP
+
+Rangos Vanilla
+- Aprendiz — Mensual: $1.00 USD | Permanente: $1.60 USD
+  Incluye: Kit Aprendiz; 5 Sethomes; /tpahere; /hat
+- Explorador — Mensual: $2.50 USD | Permanente: $4.00 USD
+  Incluye: Kit Explorador; Todo lo de Aprendiz; 8 Sethomes; /workbench
+- Guerrero — Mensual: $4.00 USD | Permanente: $6.50 USD
+  Incluye: Kit Guerrero; Todo lo de Explorador; 12 Sethomes; /enderchest
+- Épico — Mensual: $6.00 USD | Permanente: $9.50 USD
+  Incluye: Kit Épico; Todo lo de Guerrero; 20 Sethomes; /back
+- Héroe — Mensual: $8.00 USD | Permanente: $12.50 USD
+  Incluye: Kit Héroe; Todo lo de Épico; 40 Sethomes; /feed
+- Leyenda — Mensual: $10.00 USD | Permanente: $16.00 USD
+  Incluye: Kit Leyenda; Todo lo anterior; 100 Sethomes; /repair; /fly en Lobby; Chat de Colores
+
+Rangos Arena PVP
+- Gladiador — Mensual: $5.00 USD | Permanente: $8.00 USD
+  Incluye: Kit Gladiador; /enderchest en medio de PvP; /spawn en combate (5s); 600 de dinero por día
+- Veterano — Mensual: $8.00 USD | Permanente: $12.50 USD
+  Incluye: Todo lo de Gladiador; Kit Veterano; No pierdes tus cosas al morir (1 uso por día a la 1ra muerte); 1k de dinero por día
+- Warlord — Mensual: $10.00 USD | Permanente: $16.00 USD
+  Incluye: Todo lo de Veterano; Kit Warlord; 1.5k de dinero por día; /invsee; No pierdes tus cosas al morir (2 uso por día a la 1ra muerte)
