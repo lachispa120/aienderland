@@ -323,7 +323,7 @@ function chunkText(text, max = 1900) {
   return parts;
 }
 
-client.on('clientReady', () => {
+client.on('clientready', () => {
   console.log(`Bot conectado como ${client.user.tag}`);
 });
 
