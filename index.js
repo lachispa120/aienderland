@@ -76,6 +76,20 @@ function nextGroqKeyIndex() {
   return -1;
 }
 
+console.log("Intentando conectar a Discord...");
+
+client.login(process.env.DISCORD_TOKEN).then(() => {
+    console.log(`✅ Bot conectado con éxito como: ${client.user.tag}`);
+}).catch((error) => {
+    console.error("❌ ERROR AL CONECTAR A DISCORD:");
+    console.error(error.message);
+    if (error.message.includes("Used disallowed intents")) {
+        console.error("👉 SOLUCIÓN: Tenés que activar los Privileged Intents en el Discord Developer Portal.");
+    } else if (error.message.includes("An invalid token was provided")) {
+        console.error("👉 SOLUCIÓN: El DISCORD_TOKEN en Render está mal copiado o expiró.");
+    }
+});
+
 // Fuentes de contenido (precios y reglas)
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
